@@ -2,7 +2,7 @@
 
 I am a final year PhD student in statistical genetics at King's College London. 
 
-Based in an interdisciplinary research setting, I analyse huge epidemiological datasets using genomic data science/causal inference methods, focusing on self-harm and its risk factors. My passion lies in statistical genetics, mental health and data science. 
+Based in an interdisciplinary research setting, I analyse huge epidemiological datasets using genomic data science/causal inference methods, focusing on self-harm and its risk factors. My passion lies in statistical genetics, health and data science. 
 
 I use R, git, Linux/Unix, High Performance Computing (HPC), and am familiar with Python and SQL. 
 
