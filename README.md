@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I am a final year PhD student in statistical genetics at King's College London. 
+I am a data scientist at Roche.
 
-Based in an interdisciplinary research setting, I analyse huge epidemiological datasets using genomic data science/causal inference methods, focusing on self-harm and its risk factors. My passion lies in statistical genetics, health and data science. 
+Prior to this I did my PhD in statistical genetics at King's College London, analysing huge epidemiological datasets using genomic data science/causal inference methods, focusing on self-harm and its risk factors. 
+
+My passion lies in health data science and statistical genetics. 
 
 I use R, git, Linux/Unix, High Performance Computing (HPC), and am familiar with Python and SQL. 
 
