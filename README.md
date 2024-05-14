@@ -12,5 +12,6 @@ View my LinkedIn profile [here](https://www.linkedin.com/in/kai-xiang-lim-5e345/
 
 
 ## My recent projects
-1. [Health Data Science Resources](https://github.com/kai-lim/Health-data-science-resources)
+1. [Health Data Science Resources](https://github.com/kai-lim/Health-data-science-resources) 
+ 
 I curate a list of resources related to health data science
