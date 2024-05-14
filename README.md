@@ -11,3 +11,6 @@ I use R, git, Linux/Unix, High Performance Computing (HPC), and am familiar with
 View my LinkedIn profile [here](https://www.linkedin.com/in/kai-xiang-lim-5e345/) and my Google Scholar profile [here](https://scholar.google.com/citations?user=ZZUXuo0AAAAJ&hl=en).
 
 
+## My recent projects
+1. [Health Data Science Resources](https://github.com/kai-lim/Health-data-science-resources)
+I curate a list of resources related to health data science
