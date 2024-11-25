@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a data scientist at Roche.
+I am a senior data scientist at Novo Nordisk.
 
 Prior to this I did my PhD in statistical genetics at King's College London, analysing huge epidemiological datasets using genomic data science/causal inference methods, focusing on self-harm and its risk factors. 
 
