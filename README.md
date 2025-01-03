@@ -15,3 +15,6 @@ View my LinkedIn profile [here](https://www.linkedin.com/in/kai-xiang-lim-5e345/
 1. [Health Data Science Resources](https://github.com/kai-lim/Health-data-science-resources) 
  
 I curate a list of resources related to health data science
+
+2. Target Trial Emulation (TTE)
+In this repo, I aim to populate the resources related to TTE that I find helpful. 
